@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello :earth_americas:, I'm Guilherme. I'm a Software Developer with more than 9 years of experience working with Backend and Mobile ⚡ 
 
-<!--
-**guilhermemontanher/guilhermemontanher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working totally remote at [@capgemini](https://www.capgemini.com/br-pt/)
 
-Here are some ideas to get you started:
+- Studying English, Advanced Java, Android, Spring boot and React 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's connect
+**Linkedin:** https://www.linkedin.com/in/guilherme-montanher-354213ab/
+
+**E-mail:** gs.montanher@gmail.com
+
+![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=guilhermemontanher&show_icons=true)
+
